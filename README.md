@@ -1,4 +1,4 @@
-# React Component Practice - 30 Components
+# React Components - 30 Components
 
 This repository is dedicated to practicing React by building 30 different UI components.  
 The goal is to improve my React skills through hands-on work, covering a variety of component types and React concepts.
